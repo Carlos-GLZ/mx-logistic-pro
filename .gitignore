@@ -1,0 +1,18 @@
+# Llaves y secretos
+*.pem
+*.key
+*.crt
+infraestructura-info.txt
+.env
+infra/variables.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# SO/Editor
+.DS_Store
+.vscode/
