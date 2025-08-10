@@ -15,4 +15,5 @@ node_modules/
 
 # SO/Editor
 .DS_Store
-.vscode/
+.vscode/infrastructure-summary.txt
+bucket-policy.json
