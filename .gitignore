@@ -3,6 +3,8 @@
 *.key
 *.crt
 infraestructura-info.txt
+infrastructure-summary.txt
+bucket-policy.json
 .env
 infra/variables.env
 
@@ -15,5 +17,4 @@ node_modules/
 
 # SO/Editor
 .DS_Store
-.vscode/infrastructure-summary.txt
-bucket-policy.json
+.vscode/
